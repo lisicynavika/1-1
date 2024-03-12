@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c20bd0c2-69ab-4239-b3f5-b3cbb5d7d4ef" name="Changes" comment="12345">
-      <change afterPath="$PROJECT_DIR$/лаба 2 задание 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/лаба 2 задание 4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,8 @@
     "Python.лаба 1 задание 4.executor": "Run",
     "Python.лаба 2 задание 1.executor": "Run",
     "Python.лаба 2 задание 2.executor": "Run",
+    "Python.лаба 2 задание 3.executor": "Run",
+    "Python.лаба 2 задание 4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -70,7 +72,7 @@
       <updated>1709394705480</updated>
       <workItem from="1709394713922" duration="1088000" />
       <workItem from="1709406860036" duration="212000" />
-      <workItem from="1710263212024" duration="8147000" />
+      <workItem from="1710263212024" duration="12196000" />
     </task>
     <task id="LOCAL-00001" summary="12345">
       <option name="closed" value="true" />
@@ -144,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710270875028</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="12345">
+      <option name="closed" value="true" />
+      <created>1710271647133</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710271647133</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,8 +169,10 @@
     <SUITE FILE_PATH="coverage/pythonProject$1___1.coverage" NAME="1 лаба задание 1 Coverage Results" MODIFIED="1710264217358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$_1__3.coverage" NAME="лаба 1 задание 3 Coverage Results" MODIFIED="1710266413305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$_2__2.coverage" NAME="лаба 2 задание 2 Coverage Results" MODIFIED="1710270826411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$_2__4.coverage" NAME="лаба 2 задание 4 Coverage Results" MODIFIED="1710277717366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$_2__1.coverage" NAME="лаба 2 задание 1 Coverage Results" MODIFIED="1710269694022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$_1__4.coverage" NAME="лаба 1 задание 4 Coverage Results" MODIFIED="1710269007676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1710264203750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$_2__3.coverage" NAME="лаба 2 задание 3 Coverage Results" MODIFIED="1710271586190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
